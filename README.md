@@ -12,14 +12,14 @@ After you clone this repo you need to move inside ```bubble-sort``` directory an
 ### Example input :
 ```typescript
 const testArray: number = [2, 5, -12, 91, 5];
-insertionSort(testArray, SortDirection.DESC);
+bubbleSort(testArray, SortDirection.DESC);
 ```
 ### Output of example input :
 ```typescript
 [-12, 2, 5, 5, 91]
 ```
 
-**insertionSort** method takes two parametrs:
+**bubbleSort** method takes two parametrs:
 
  - **elementsList** -> it is the list which you want to sort
  - **direction** -> it is optional parameter which you can set as ```ASC``` or ```DESC``` (ASC is default option)
