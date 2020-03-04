@@ -1,7 +1,7 @@
 # bubble-sort
 
 ## Instalation
-After you clone this repo you need to move inside ```bubble-sort``` directory and rum command
+After you clone this repo you need to move inside ```bubble-sort``` directory and run command
 
 ``` npm install```
 
